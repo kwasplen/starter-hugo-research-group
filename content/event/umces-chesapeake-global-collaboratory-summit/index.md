@@ -1,5 +1,5 @@
 ---
-title: UMCES Chesapeake Global Collaboratory Summit
+title: Chesapeake Global Collaboratory Summit
 abstract: Join leaders in science, industry, government, and the nonprofit world
   to discuss harnessing the power of big data and new technologies to accelerate
   solutions to society's most complex environmental challenges.
