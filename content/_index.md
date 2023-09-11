@@ -58,14 +58,14 @@ sections:
       subtitle:
       text: |
         <div class="kwacenter">
-        Hey!  See kwatry below.  Maybe.
+        Hey!  See kwatry below.  Maybe.  Try again.
         </div>
     design:
       columns: '1'
     # css_class: kwacenter
 
   - block: markdown
-    # id: kwatry
+    id: kwatry
     content:
       title:
       subtitle:
@@ -73,7 +73,7 @@ sections:
         ![UMCES logo and labs footer](umcesfooter.jpg "")
     design:
       columns: '1'
-    css_style: 'img { text-align: center; }'
+    # css_style: 'img { text-align: center; }'
     # css_class: kwacenter
     # css_style: 'img { display: block; margin: auto; }'
     # css_style: '{ display: block; margin: auto; }'
