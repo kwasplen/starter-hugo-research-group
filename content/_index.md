@@ -57,10 +57,10 @@ sections:
       title:
       subtitle:
       text: |
-        <div align="center">![screen reader text](umcesfooter.jpg "")</div>
-        <div align="center">Hey!</div>
+        ![screen reader text](umcesfooter.jpg "")#center
     design:
       columns: '1'
+    css_style: 'img[src*='#center'] { display: block; margin: auto; }'
   
   - block: markdown
     content:
@@ -88,8 +88,8 @@ sections:
       # title:
       # subtitle:
       # text: |
+        # {{% cta cta_link="./people/" cta_text="Meet the Team →" %}}
         # {{< cta cta_link="./people/" cta_text="Meet the Team →" >}}
-        # {{% cta link="./people/" text="Meet the Team →" %}}
     # design:
       # columns: '1'
 ---
