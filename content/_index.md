@@ -60,6 +60,7 @@ sections:
         ![screen reader text](umcesfooter.jpg "")
     design:
       columns: '1'
+    css_style: 'img { display: block; margin: auto; }'
     # css_style: '{ display: block; margin: auto; }'
     # css_style: '{ display: block; margin: auto; align:center; }'
     # css_style: 'img[src*='#center'] { display: block; margin: auto; }'
