@@ -70,7 +70,7 @@ sections:
           text_color_light: true
       spacing:
         padding: ['4px', '0', '4px', '0']
-      css_class: fullscreen
+      # css_class: fullscreen
 
   # figure out cta issue later, if wanted
   # - block: markdown
