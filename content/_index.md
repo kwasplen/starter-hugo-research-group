@@ -58,15 +58,8 @@ sections:
       subtitle:
       text: |
         <div class="kwacenter">
-        Hey!
+        Hey!  See kwatry below.
         </div>
-        <div class="kwacenter">
-        ![UMCES logo and labs footer](umcesfooter.jpg "")
-        </div>
-        <p class="kwacenter">
-        ![UMCES logo and labs footer](umcesfooter.jpg "")
-        </p>
-        {{< figure src="image.jpg" caption="" numbered="false" >}}
     design:
       columns: '1'
     # css_class: kwacenter
@@ -80,7 +73,7 @@ sections:
         ![UMCES logo and labs footer](umcesfooter.jpg "")
     design:
       columns: '1'
-    css_class: kwacenter
+    # css_class: kwacenter
     # css_style: 'img { display: block; margin: auto; }'
     # css_style: '{ display: block; margin: auto; }'
     # css_style: '{ display: block; margin: auto; align:center; }'
