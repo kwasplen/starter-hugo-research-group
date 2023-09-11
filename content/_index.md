@@ -64,14 +64,15 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{< cta cta_link="./people/" cta_text="Meet the Team →" >}}
-        {{% cta link="./people/" text="Meet the Team →" %}}
-    design:
-      columns: '1'
+
+  # figure out cta issue later, if wanted
+  # - block: markdown
+    # content:
+      # title:
+      # subtitle:
+      # text: |
+        # {{< cta cta_link="./people/" cta_text="Meet the Team →" >}}
+        # {{% cta link="./people/" text="Meet the Team →" %}}
+    # design:
+      # columns: '1'
 ---
