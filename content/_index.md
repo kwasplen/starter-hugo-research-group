@@ -60,9 +60,15 @@ sections:
         <div class="kwacenter">
         Hey!
         </div>
+        <div class="kwacenter">
+        ![UMCES logo and labs footer](umcesfooter.jpg "")
+        </div>
+        <p class="kwacenter">
+        ![UMCES logo and labs footer](umcesfooter.jpg "")
+        </p>
     design:
       columns: '1'
-    css_class: kwacenter
+    # css_class: kwacenter
 
   - block: markdown
     content:
