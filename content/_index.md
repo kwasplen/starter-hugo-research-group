@@ -57,6 +57,16 @@ sections:
       title:
       subtitle:
       text: |
+        Hey!
+    design:
+      columns: '1'
+    css_class: kwacenter
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
         ![UMCES logo and labs footer](umcesfooter.jpg "")
     design:
       columns: '1'
