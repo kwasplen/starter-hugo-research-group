@@ -51,6 +51,15 @@ sections:
     design:
       view: card
       columns: '1'
+
+- block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        ![screen reader text](logo.png "caption")
+    design:
+      columns: '1'
   
   - block: markdown
     content:
