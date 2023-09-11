@@ -19,8 +19,8 @@ image:
 ---
 T﻿wo Days:
 
-* Thursday, September 28, 9:30 a.m.-5:30 pm
-* Friday, September 29, 9 a.m.-12:30 p.m.
+* Thursday, September 28, 9:30 a.m.-5:30 p.m.
+* Friday, September 29, 9:00 a.m.-12:30 p.m.
 
 The Chesapeake Global Collaboratory is a new initiative of the University of Maryland Center for Environmental Science to generate accelerated solutions to big problems by engaging diverse voices, novel approaches, and innovative tools.
 
