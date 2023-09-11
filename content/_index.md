@@ -66,6 +66,7 @@ sections:
         <p class="kwacenter">
         ![UMCES logo and labs footer](umcesfooter.jpg "")
         </p>
+        {{< figure src="image.jpg" caption="" numbered="false" >}}
     design:
       columns: '1'
     # css_class: kwacenter
