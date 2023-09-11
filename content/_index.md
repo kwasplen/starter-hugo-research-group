@@ -57,10 +57,11 @@ sections:
       title:
       subtitle:
       text: |
-        ![screen reader text](umcesfooter.jpg#center "")
+        ![screen reader text](umcesfooter.jpg "")
     design:
       columns: '1'
-    css_style: 'img[src*='#center'] { display: block; margin: auto; }'
+    css_style: '{ display: block; margin: auto; }'
+    # css_style: 'img[src*='#center'] { display: block; margin: auto; }'
   
   - block: markdown
     content:
