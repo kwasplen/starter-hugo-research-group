@@ -57,7 +57,7 @@ sections:
       title:
       subtitle:
       text: |
-        ![screen reader text](umcesfooter.jpg "")
+        <div align="center">![screen reader text](umcesfooter.jpg "")</div>
         <div align="center">Hey!</div>
     design:
       columns: '1'
