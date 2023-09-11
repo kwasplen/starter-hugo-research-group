@@ -57,7 +57,9 @@ sections:
       title:
       subtitle:
       text: |
+        <div class="kwacenter">
         Hey!
+        </div>
     design:
       columns: '1'
     css_class: kwacenter
