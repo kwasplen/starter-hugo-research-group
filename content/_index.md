@@ -100,6 +100,26 @@ sections:
         padding: ['4px', '0', '4px', '0']
       # css_class: fullscreen
 
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: umcesfooter.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: actual
+          text_color_light: true
+      spacing:
+        padding: ['4px', '0', '4px', '0']
+      css_class: fullscreen
+
   # figure out cta issue later, if wanted
   # - block: markdown
     # content:
