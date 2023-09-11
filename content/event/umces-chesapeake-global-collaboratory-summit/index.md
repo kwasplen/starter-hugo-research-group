@@ -4,8 +4,8 @@ abstract: Join leaders in science, industry, government, and the nonprofit world
   to discuss harnessing the power of big data and new technologies to accelerate
   solutions to society's most complex environmental challenges.
 location: Rita Rossi Colwell Center, 701 E. Pratt Street, Baltimore, MD
-date: 2023-09-28T13:30:00.000Z
-date_end: 2023-09-29T16:30:00.000Z
+date: 2023-09-28T09:30:00.000Z
+date_end: 2023-09-29T12:30:00.000Z
 all_day: false
 event: CGC Summit
 event_url: "#"
