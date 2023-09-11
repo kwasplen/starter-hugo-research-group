@@ -57,7 +57,9 @@ sections:
       title:
       subtitle:
       text: |
-        ![screen reader text](logo.png "caption")
+        <div align="center">
+        ![screen reader text](umcesfooter.jpg "")
+        </div>
     design:
       columns: '1'
   
