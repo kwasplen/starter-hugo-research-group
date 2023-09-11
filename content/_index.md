@@ -71,6 +71,7 @@ sections:
     # css_class: kwacenter
 
   - block: markdown
+    id: kwatry
     content:
       title:
       subtitle:
