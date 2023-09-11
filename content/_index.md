@@ -57,11 +57,10 @@ sections:
       title:
       subtitle:
       text: |
-        <div class="kwacenter">
         ![UMCES logo and labs footer](umcesfooter.jpg "")
-        </div>
     design:
       columns: '1'
+    css_class: kwacenter
     # css_style: 'img { display: block; margin: auto; }'
     # css_style: '{ display: block; margin: auto; }'
     # css_style: '{ display: block; margin: auto; align:center; }'
