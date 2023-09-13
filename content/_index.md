@@ -70,7 +70,7 @@ sections:
       title:
       subtitle:
       text: |
-        ![UMCES logo and labs footer](umcesfooter.jpg#kwacenter "")
+        ![UMCES logo and labs footer](umcesfooter.jpg "")
     design:
       columns: '1'
     # css_style: 'img { text-align: center; }'
