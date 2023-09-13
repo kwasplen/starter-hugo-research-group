@@ -97,6 +97,7 @@ sections:
           text_color_light: true
       spacing:
         padding: ['4px', '0', '4px', '0']
+      css_style: 'div { height: 235px !important; }'
       # css_class: fullscreen
 
   - block: markdown
