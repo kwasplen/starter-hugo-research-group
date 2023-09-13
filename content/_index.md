@@ -96,7 +96,7 @@ sections:
           size: actual
           text_color_light: true
       spacing:
-        padding: ['4px', '0', '4px', '0']
+        padding: ['115px', '0', '116px', '0']
       css_style: 'div { height: 235px !important; }'
       # css_class: fullscreen
 
