@@ -64,16 +64,16 @@ sections:
       columns: '1'
     # css_class: kwacenter
 
-  - block: markdown
-    id: kwatry
-    content:
-      title:
-      subtitle:
-      text: |
-        ![UMCES logo and labs footer](umcesfooter.jpg "")
-    design:
-      columns: '1'
-    css_style: 'figure div { text-align: center; }'
+  # - block: markdown
+    # id: kwatry
+    # content:
+      # title:
+      # subtitle:
+      # text: |
+        # ![UMCES logo and labs footer](umcesfooter.jpg "")
+    # design:
+      # columns: '1'
+    # css_style: 'figure div { text-align: center; }'
     # css_style: 'img { display: block !important; margin: auto !important; }'
     # css_style: 'img { text-align: center; }'
     # css_class: kwacenter
@@ -97,28 +97,8 @@ sections:
           text_color_light: true
       spacing:
         padding: ['115px', '0', '116px', '0']
-      css_style: 'div { height: 235px !important; }'
+      # css_style: 'div { height: 235px !important; }'
       # css_class: fullscreen
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: umcesfooter.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: actual
-          text_color_light: true
-      spacing:
-        padding: ['4px', '0', '4px', '0']
-      css_class: fullscreen
 
   # figure out cta issue later, if wanted
   # - block: markdown
