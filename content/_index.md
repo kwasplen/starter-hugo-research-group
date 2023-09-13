@@ -32,6 +32,8 @@ sections:
         It will feature plenary speakers Fred Tutman, ShaShi Shekhar, and Dr. Erica Key.
     design:
       columns: '1'
+    spacing:
+      padding: ['20px', '0', '20px', '0']
   
   - block: collection
     content:
@@ -52,16 +54,16 @@ sections:
       view: card
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        <div class="kwacenter">
-        Hey!  See kwatry below.  Maybe.  Try again.
-        </div>
-    design:
-      columns: '1'
+  # - block: markdown
+    # content:
+      # title:
+      # subtitle:
+      # text: |
+        # <div class="kwacenter">
+        # Hey!  See kwatry below.  Maybe.  Try again.
+        # </div>
+    # design:
+      # columns: '1'
     # css_class: kwacenter
 
   # - block: markdown
