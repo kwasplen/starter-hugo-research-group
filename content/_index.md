@@ -32,8 +32,8 @@ sections:
         It will feature plenary speakers Fred Tutman, ShaShi Shekhar, and Dr. Erica Key.
     design:
       columns: '1'
-    spacing:
-      padding: ['20px', '0', '20px', '0']
+      spacing:
+        padding: ['20px', '0', '20px', '0']
   
   - block: collection
     content:
