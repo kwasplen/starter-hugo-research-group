@@ -6,17 +6,19 @@ draft: false
 featured: false
 image:
   filename: featured.png
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
 ---
 Join leaders in science, industry, government, and the nonprofit world to discuss harnessing the power of big data and new technologies to accelerate solutions to society's most complex environmental challenges.
 
 <!--more-->
 
-Thursday, September 28, 9:30 am - 5:30 pm
-Friday, September 29, 9:00 am - 12:30 pm
+D﻿ates:
+- Thursday, September 28, 9:30 am - 5:30 pm
+- Friday, September 29, 9:00 am - 12:30 pm
 
-Rita Rossi Colwell Center, 701 E. Pratt Street, Baltimore, MD
+L﻿ocation:
+- Rita Rossi Colwell Center, 701 E. Pratt Street, Baltimore, MD
 
 Fred Tutman is a grassroots community advocate for clean water in Maryland’s longest and deepest intrastate waterway and holds the title of Patuxent Riverkeeper, the longest serving in the Chesapeake region. He is the only African American Waterkeeper in the nation. Previously, Fred spent over 25 years working as a media producer and consultant on telecommunications assignments all over the globe. Fred is on the Graduate studies faculty of Goddard College in Vermont and has taught at several colleges, universities, and law schools. Fred is the recipient of numerous regional and state awards for his environmental works.
 
