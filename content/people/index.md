@@ -19,8 +19,8 @@ sections:
           - Administration
           - Visitors
           - Alumni
-          - Cyberinfrastructure Team
-          - Science Communication and Stakeholder Support Team
+          - Cyberinfrastructure
+          - Science Communication and Stakeholder Support
       sort_by: Params.last_name
       sort_ascending: true
     design:
