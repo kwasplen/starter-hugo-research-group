@@ -13,7 +13,7 @@ user_groups:
   - Administration
   - Steering Committee
   - Advisory Board
-  - Cyberinfrastructure Team
-  - Science Communication and Stakeholder Support Team
+  - Cyberinfrastructure
+  - Science Communication and Stakeholder Support
 ---
 F﻿ull biography placeholder.
