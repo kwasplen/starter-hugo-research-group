@@ -97,7 +97,7 @@ sections:
           position: center
           size: actual
           text_color_light: true
-        color: #00587C
+        # color: #00587C
       spacing:
         padding: ['115px', '0', '116px', '0']
       # css_style: 'div { height: 235px !important; }'
