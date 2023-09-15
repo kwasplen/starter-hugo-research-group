@@ -35,8 +35,34 @@ sections:
       columns: '1'
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_style: 'color: white; background-color: #00587C'
-  
+      # css_style: 'color: white; background-color: #00587C'
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        Quick demonstration of what can be done with Wowchemy, Hugo, Netlify, GitHub, etc.
+        Free or very low cost.  (Check Netlify pricing.)
+        Good Content Management System (CMS) built in, meaning created automatically.
+        Revision control through GitHub.
+        Would link to [UMCES](https://www.umces.edu/) where approriate.
+        Proper UMCES branding would be considered.
+
+        I've done enough customizing to see what can be done and level of effort.  Easy.
+        Site [Ecoclimate Lab](https://www.atmos.washington.edu/~aswann/LabWebsitePublic/) is a good example of how nice a site based on the research group template can look.
+        I've just chopped images out of PDF files, etc.
+        Would look better with images made for the site.
+
+        Tour item on menu and slide show could be customized.
+        Slide show could also be used for the sample projects from each campus.
+        Correct contact information would be provided.
+    design:
+      columns: '1'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_style: 'color: white; background-color: #00587C; font-size: 0.5em;'
+    
   - block: collection
     content:
       title: Latest News
