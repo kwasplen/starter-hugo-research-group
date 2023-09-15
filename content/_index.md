@@ -55,6 +55,8 @@ sections:
       # view: card
       view: compact
       columns: '1'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
 
   - block: collection
     content:
@@ -94,7 +96,7 @@ sections:
     design:
       # view: card
       view: list # showcase, compact, card, citation, list
-      columns: '1'
+      columns: '2'
 
   # - block: markdown
     # content:
