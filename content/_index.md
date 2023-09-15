@@ -101,6 +101,7 @@ sections:
         # color: #00587C
       spacing:
         padding: ['115px', '0', '116px', '0']
+      css_style: 'background-color: #00587C'
       # css_style: 'div { height: 235px !important; }'
       # css_class: fullscreen
 
