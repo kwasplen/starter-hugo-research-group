@@ -22,6 +22,8 @@ event_url: "#"
 publishDate: 2023-09-14T03:32:31.128Z
 draft: false
 featured: false
+authors:
+  - Task Juggler
 image:
   filename: featured.jpg
   focal_point: Smart
