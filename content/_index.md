@@ -75,6 +75,26 @@ sections:
       view: compact
       columns: '1'
 
+  - block: collection
+    content:
+      title: Publications
+      subtitle:
+      text:
+      count: 3
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: publication
+    design:
+      # view: card
+      view: list # showcase, compact, card, citation, list
+      columns: '1'
+
   # - block: markdown
     # content:
       # title:
