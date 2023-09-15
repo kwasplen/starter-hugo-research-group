@@ -40,7 +40,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 2
       filters:
         author: ''
         category: ''
@@ -50,6 +50,26 @@ sections:
       offset: 0
       order: desc
       page_type: post
+    design:
+      # view: card
+      view: compact
+      columns: '1'
+
+  - block: collection
+    content:
+      title: Events
+      subtitle:
+      text:
+      count: 2
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: event
     design:
       # view: card
       view: compact
