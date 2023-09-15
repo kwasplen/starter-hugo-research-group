@@ -138,7 +138,7 @@ sections:
         **kwa notes:**
         Quick demonstration of what can be done with Wowchemy, Hugo, Netlify, GitHub, etc.
         Free or very low cost.  (Check Netlify pricing.)
-        Good Content Management System (CMS) built in, meaning provided automatically.
+        Good content management system (CMS) built in, meaning provided automatically.
         Revision control through GitHub.  Seamless integration.
         Would link to [UMCES](https://www.umces.edu/) where appropriate.
         Proper UMCES branding would be considered.
