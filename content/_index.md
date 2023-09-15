@@ -7,6 +7,7 @@ type: landing
 # Leave hero block title empty
 sections:
   - block: hero
+    id: intro
     content:
       title:
       image:
