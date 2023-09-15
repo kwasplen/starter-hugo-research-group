@@ -35,6 +35,7 @@ sections:
       columns: '1'
       spacing:
         padding: ['20px', '0', '20px', '0']
+      css_style: 'color: white; background-color: #00587C'
   
   - block: collection
     content:
