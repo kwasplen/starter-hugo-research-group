@@ -4,6 +4,8 @@ title: CGC Summit on September 28 and 29 with Plenary Speakers Fred Tutman,
 date: 2023-09-14T19:13:30.831Z
 draft: false
 featured: false
+authors:
+  - Task Juggler
 image:
   filename: featured.png
   focal_point: Center
