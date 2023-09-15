@@ -135,11 +135,12 @@ sections:
       title:
       subtitle:
       text: |
+        **kwa notes:**
         Quick demonstration of what can be done with Wowchemy, Hugo, Netlify, GitHub, etc.
         Free or very low cost.  (Check Netlify pricing.)
         Good Content Management System (CMS) built in, meaning provided automatically.
         Revision control through GitHub.  Seamless integration.
-        Would link to [UMCES](https://www.umces.edu/) where approriate.
+        Would link to [UMCES](https://www.umces.edu/) where appropriate.
         Proper UMCES branding would be considered.
         I've customized some elements to see what can be done and to evaluate the level of effort.  Easy.
         Site [Ecoclimate Lab](https://www.atmos.washington.edu/~aswann/LabWebsitePublic/) is a good example of how nice a site based on Wowchemy's research group template can look.
@@ -148,6 +149,9 @@ sections:
         Tour item on menu and slide show could be customized.
         Slide show could also be used for the sample projects from each campus.
         Correct contact information would be provided.
+        Will continue to flesh out (on my own time) if of interest.
+        Will add recent Elmore and company SCIPE PDF to publications, for instance.
+        The web address would be "changed" to something nicer.
     design:
       columns: '1'
       spacing:
