@@ -148,6 +148,7 @@ sections:
         Would look better with images made for the site.
         Tour item on menu and slide show could be customized.
         Slide show could also be used for the sample projects from each campus.
+        Research menu item could be added. Research projects could be displayed as on that Ecoclimate Lab site.
         Correct contact information would be provided.
         Will continue to flesh out (on my own time) if of interest.
         Will add recent Elmore and company SCIPE PDF to publications, for instance.
