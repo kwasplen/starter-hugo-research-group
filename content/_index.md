@@ -30,7 +30,7 @@ sections:
         would fall within the collaboratory structure.
     
         The next milestone for the project will be the CGC Summit on September 28–29 at the Rita Rossi Colwell Center in Baltimore.
-        It will feature plenary speakers Fred Tutman, ShaShi Shekhar, and Dr. Erica Key.
+        It will feature plenary speakers Fred Tutman, Shashi Shekhar, and Dr. Erica Key.
     design:
       columns: '1'
       spacing:
