@@ -40,7 +40,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 2
+      count: 1
       filters:
         author: ''
         category: ''
